@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhiramakrishna M!
 
-🎯 **Freelance Data Analyst | Python • Power BI • SQL**
+🎯 **Aspiring Data Analyst | Python • Power BI • SQL**
 
 I'm passionate about transforming raw data into actionable insights. Below is my portfolio of real-world projects across various domains like e-commerce, weather analysis, resume automation, and misconduct detection.
 

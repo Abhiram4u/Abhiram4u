@@ -29,8 +29,8 @@ Detected fake/misleading profiles and Zoom links from chat transcripts using reg
 
 ## 📫 Connect with Me
 
-- 🔗 GitHub: [github.com/abhiramakrishna](https://github.com/Abhiram4u)
-- 💼 LinkedIn: [linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/abhiram06o9/)
+- 🔗 GitHub: [github.com/abhiram4u](https://github.com/Abhiram4u)
+- 💼 LinkedIn: [linkedin.com/in/abhiram06o9](https://www.linkedin.com/in/abhiram06o9/)
 
 ---
 
